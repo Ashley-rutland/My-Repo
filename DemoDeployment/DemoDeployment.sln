@@ -6,9 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39930181-EE06-49A3-AE5B-367742F7EF11}"
 	ProjectSection(SolutionItems) = preProject
 		AzureAD-Template-AD Joined VMs.json = AzureAD-Template-AD Joined VMs.json
+		..\..\Azure-Template-AD-Joined-VMs\CreateADPDC.ps1.zip = ..\..\Azure-Template-AD-Joined-VMs\CreateADPDC.ps1.zip
 		README.md = README.md
 		vnet-with-dns-server.json = vnet-with-dns-server.json
 		vnet.json = vnet.json
+		..\..\Azure-Template-AD-Joined-VMs\WebServerConfig.ps1.zip = ..\..\Azure-Template-AD-Joined-VMs\WebServerConfig.ps1.zip
 	EndProjectSection
 EndProject
 Global
